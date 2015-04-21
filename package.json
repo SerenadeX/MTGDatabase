@@ -1,0 +1,23 @@
+{
+  "name": "MTGDatabase",
+  "version": "1.0.0",
+  "description": "Website to show MTG tournament decks in detail",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SerenadeX/MTGDatabase"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerenadeX/MTGDatabase/issues"
+  },
+  "homepage": "https://github.com/SerenadeX/MTGDatabase",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3"
+  }
+}
